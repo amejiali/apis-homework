@@ -22,10 +22,21 @@ After analyzing the Accounts, Transactions and Expenses, here you have a report 
 
 Here you have the current and projected annual income:
 
-Last Year Gross Income  : 7285
-Current Monthly Income  : 500
-Projected Yearly Income : 7389
+**Last Year Gross Income  : 7285**
+
+**Current Monthly Income  : 500**
+
+**Projected Yearly Income : 7389**
 
 
-Recomendation: As you can see, every singke month you are spending much more that the income you have. We strongly recomend to re-define your expenses priorities and match these with your income. 
+Recommendation: As you can see, every single month you are spending much more than the income you have. We strongly recommend to re-define your expenses priorities and match these with your income. 
 
+## Portfolio Analysis
+
+![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio1.jpg)
+
+![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio2.jpg)
+
+![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio3.jpg)
+
+![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio4.jpg)
