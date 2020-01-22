@@ -48,3 +48,19 @@ Recommendation: As you can see, every single month you are spending much more th
 ### The Portfolio Cumulative Returns within 90% confidence interval
 
 ![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio4.jpg)
+
+### Conclusions / Observations:
+
+There is a 10% chance that an initial investment of $20,000 in the portfolio over the next 30 years will end with a value of $1857651.0827897505
+
+There is a 50% chance that an initial investment of $20,000 in the portfolio over the next 30 years will end with a value of $2940857.993288653
+
+There is a 90% chance that an initial investment of $20,000 in the portfolio over the next 30 years will end with a value of $4752453.136497456
+
+4% of retirement portfolio at the 10th percentile is $74306.04331159002
+
+Current Projected annual income is $7389
+
+Withdrawing 4% at 10th Percentile will cover the income with no issues
+
+An increase in 50% of initial investment (from 20K to 30K) would increas the 4% retirement ammoount from 74K to 111K (an increase of around 50%).
