@@ -33,10 +33,18 @@ Recommendation: As you can see, every single month you are spending much more th
 
 ## Portfolio Analysis
 
+### Taking a Portfolio with SPY and AGG (60%/40%), here you have the analysis and calculations:
+
 ![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio1.jpg)
+
+### A 30 years Monte Carlo simulation (7560 Trading Days) with 500 iterations over the portfolio:
 
 ![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio2.jpg)
 
+### Here you have the plot of the Monte Carlo simulation:
+
 ![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio3.jpg)
+
+### The Portfolio Cumulative Returns within 90% confidence interval
 
 ![](https://raw.githubusercontent.com/amejiali/apis-homework/master/Portfolio4.jpg)
